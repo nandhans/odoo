@@ -1,0 +1,2 @@
+# odoo
+odoo educational purpose
